@@ -1,0 +1,11 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+/* Copyright (C). All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by JuanE <juane619@correo.ugr.es>
+ */
+<#if licenseLast??>
+${licenseLast}
+</#if>
